@@ -1,7 +1,0 @@
-0:0:0:0:0:0:0:1 - - [05/Aug/2021:00:04:03 +0530] "GET /Shopping_cart_Project/admin/addNewProduct.jsp?msg=done HTTP/1.1" 200 2329
-0:0:0:0:0:0:0:1 - - [05/Aug/2021:00:04:28 +0530] "POST /Shopping_cart_Project/admin/addNewProductAction.jsp HTTP/1.1" 302 -
-0:0:0:0:0:0:0:1 - - [05/Aug/2021:00:04:28 +0530] "GET /Shopping_cart_Project/admin/addNewProduct.jsp?msg=done HTTP/1.1" 200 2329
-0:0:0:0:0:0:0:1 - - [05/Aug/2021:00:04:41 +0530] "POST /Shopping_cart_Project/admin/addNewProductAction.jsp HTTP/1.1" 302 -
-0:0:0:0:0:0:0:1 - - [05/Aug/2021:00:04:41 +0530] "GET /Shopping_cart_Project/admin/addNewProduct.jsp?msg=done HTTP/1.1" 200 2329
-0:0:0:0:0:0:0:1 - - [05/Aug/2021:00:04:51 +0530] "POST /Shopping_cart_Project/admin/addNewProductAction.jsp HTTP/1.1" 302 -
-0:0:0:0:0:0:0:1 - - [05/Aug/2021:00:04:51 +0530] "GET /Shopping_cart_Project/admin/addNewProduct.jsp?msg=done HTTP/1.1" 200 2329
