@@ -1,0 +1,14 @@
+    <%@page import="Project.ConnectionProvider" %>
+    <%@page import="java.sql.*"%>
+<%
+String email=session.getAttribute("email").toString();
+String status="processing";
+try
+{
+	Connection con=ConnectionProvider.getCon();
+}
+catch(Exception e)
+{
+	
+}
+%>   
